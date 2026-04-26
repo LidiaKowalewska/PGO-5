@@ -1,5 +1,5 @@
 public class Main {
-    /*public static void main(String[] args) {
+    public static void main(String[] args) {
         ZespolProjektowy zespol = new ZespolProjektowy("Campus App");
 
         Pracownik p1 = new Programista("E-101", "Anna", "Maj", 12000.0, "Java", 4);
@@ -23,5 +23,5 @@ public class Main {
 
         System.out.println(p2.equals(new Tester("E-201", "Inne", "Dane", 9000.0, false, 10)));
         System.out.println(p2);
-    }*/
+    }
 }
